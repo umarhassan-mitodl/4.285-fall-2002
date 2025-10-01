@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "legacy_uid": "11f92dc2-e7ab-5064-9526-e7816a52a5ca",
+  "instructors": {
+    "content": [
+      "ee037605-3efb-4bf2-427a-f4e8ddd13652",
+      "66e363d1-e6e0-d603-c1fd-af9c78fcaf7c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "92643b1f-7332-81c2-f855-17e904d590a4",
+    "website": "4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002"
+  },
+  "course_title": "Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems",
+  "hide_download": true,
+  "course_description": "In this seminar, students will design and perfect a digital environment to house the activities of large-scale organizations of people making bottom-up decisions, such as with citizen-government affairs, voting corporate shareholders or voting members of global non-profits and labor unions. A working Open Source prototype created last semester will be used as the starting point, featuring collaborative filtering and electronic agent technology pioneered at the Media Lab. This course focuses on development of online spaces as part of an interdependent human environment, including physical architectures, mapped work processes and social/political dimensions.\n\nA cross-disciplinary approach will be taken; students with background in architecture, urban planning, law, cognition, business, digital media and computer science are encouraged to participate. No prior technical knowledge is necessary, though a rudimentary understanding of web page creation is helpful.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.285",
+  "course_image_thumbnail": {
+    "content": "d1eb0072-0534-c408-f385-73a58af9207c",
+    "website": "4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "site_uid": "64cb0d26-cb58-4268-8ece-e85b05c761a4",
+  "site_short_id": "4.285-fall-2002",
+  "site_url_path": "courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002",
+  "title": "Course Metadata"
+}
